@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Ragable",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#61AAF2",
+    "light": "#99bfe6",
+    "dark": "#263a59"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -58,7 +58,7 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.ragable.ca",
           "icon": "book-open-cover"
         },
         {
@@ -82,13 +82,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@ragable.ca"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Get Started",
+      "href": "https://ragable.ca/signup"
     }
   },
   "footer": {
